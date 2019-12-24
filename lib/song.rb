@@ -3,6 +3,7 @@ class Song
   SONG = []
   def ititialize
     SONG << self.title
+    SONG << self.artist
   end
 
 end
