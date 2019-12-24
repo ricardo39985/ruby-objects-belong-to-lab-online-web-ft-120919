@@ -1,5 +1,5 @@
 class Song
-  attr_accessor :name
+  attr_accessor :title
   SONG = []
   def ititialize
     SONG << self.title
